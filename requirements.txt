@@ -1,0 +1,9 @@
+flask
+gtts
+transformers
+googletrans
+deep-translator
+pytesseract
+Pillow
+PyPDF2
+requests
