@@ -129,7 +129,6 @@ doctor-appointment-chatbot/
 ![Other](docs/images/others.png)
 
 ## Author
-## Author
 
 Deepak B V — AI & ML Engineer | Full-Stack AI Developer
 
