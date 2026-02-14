@@ -129,9 +129,9 @@ doctor-appointment-chatbot/
 ![Other](docs/images/others.png)
 
 ## Author
-Deepak B V
+## Author
 
-AI & ML Graduate | AI & ML Focus
+Deepak B V — AI & ML Engineer | Full-Stack AI Developer
 
 ## License
 This project is licensed under the MIT License — see the LICENSE file for details.
